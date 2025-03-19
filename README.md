@@ -18,8 +18,6 @@ Hi, I'm Shivansh Tiwari, a passionate **AI/ML enthusiast** and **full-stack deve
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shivansht5963&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shivansht5963&icon=2&color=9)](https://visitcount.itsvg.in)
